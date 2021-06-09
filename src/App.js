@@ -11,6 +11,19 @@ function App() {
         <div className="content">
           <div className="content_img">
             <img src="./images/paris.jpg" alt="" />
+            <div className="content_info">
+              <div className="title">
+                <span>Best Of Paris In 7 Days Tour</span>
+              </div>
+              <div className="price">
+                <div className="box">
+                  <span>$1,995</span>
+                </div>
+              </div>
+              <div className="des_info">
+                <p>asdsadasdasdasds</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
