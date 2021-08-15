@@ -95,6 +95,7 @@ body {
 .hide{
   margin-left: auto;
   margin-top: -15px;
+  margin-bottom: 15px;
 }
 .hide button{
   width: 75px;
@@ -106,4 +107,12 @@ body {
 }
 .hide button:hover{
   opacity: .9;
+}
+@media (max-width:767px){
+  .content_info {
+    height: auto;
+  }
+  .height250{
+    height: auto;
+  }
 }
